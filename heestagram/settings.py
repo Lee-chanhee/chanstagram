@@ -74,12 +74,7 @@ WSGI_APPLICATION = 'heestagram.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'likelion',
-        'USER': 'test_pg',
-        'PASSWORD': 'samsung53!',
-        'HOST': 'likelion.cmzf4c1nby2g.us-east-2.rds.amazonaws.com',
-        'PORT': '5432',
+
     }
 }
 
